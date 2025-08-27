@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+mysql-connector-python
+transformers
+torch
+pandas
+python-dotenv
