@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+myenv/
+venv/
+
+# Environment
+.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Uploads & Temp
+uploads/
+temp/
+
+# Models (large files)
+*.pth
+*.pt
+
+# IDE
+.vscode/
+.idea/
+
+# Keep templates
+!.env.example
+!.env.template

@@ -10,5 +10,6 @@ numpy
 opencv-python
 pdfplumber
 PyMuPDF
-re
 mysql-connector-python
+
+pip install streamlit python-dotenv Pillow transformers open-clip-torch matplotlib scikit-image scipy numpy opencv-python pdfplumber PyMuPDF mysql-connector-python
